@@ -1,0 +1,7 @@
+{
+  "description": "bootstrap course interface made with only bootstrap library",
+  "alt": "some text and two tables",
+  "liveLink": "https://body1250.github.io/bootstrap-course-interface/",
+  "skills": ["HTML", "CSS"],
+  "isImportant": false
+}
